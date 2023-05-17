@@ -39,6 +39,11 @@ Dare IT Chalange where i was learding to write my first automatic test base on �
 Znajdowanie wlaściwych selektorów, pistanie testów automatycznych, pisanie tc i dokumentacji. 
 
 * Link to my repositiry with automatic tests stripts 
+<a href = "https://github.com/KarolinaSosinska/challange_portfolio_karola"> LINK </a> 
+
 * Link to my repository in Robot Framework
+ <a href = "https://github.com/KarolinaSosinska/panelscout_robotframework"> LINK </a> 
 * Link to my test cases
+ <a href = "https://drive.google.com/drive/folders/1rpcmPnEsfivsjWbM_BE2PjQRkhqdvCEv?usp=sharing"> LINK </a> 
 * Link to my bugs list and bugs report
+<a href = "https://drive.google.com/drive/folders/193Um3IKa8t0TtF1IvvVohnV688KBriAf?usp=sharing"> LINK </a> 
