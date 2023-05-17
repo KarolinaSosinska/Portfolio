@@ -57,13 +57,13 @@ I mainly focus on developing my Python programming skills, but I also open to le
 
 # My project
 
-Dare IT Challenge where I learned to write my first automated tests based on a test environment: <a href = "https://scouts-test.futbolkolektyw.pl/"> Scouts panel </a></br>.
+Dare IT Challenge where I learned to write my first automated tests based on a test environment: <a href = "https://scouts-test.futbolkolektyw.pl/"> Scouts panel </a></br>
 Finding the right selectors, writing automated tests tests cases and documentation.
 <br>
 <br>
 <br>
 
-* Link to my repository with automatic tests stripts 
+*Link to my repository with automatic tests stripts 
 <a href = "https://github.com/KarolinaSosinska/challange_portfolio_karola"> LINK </a></br>
 <br>
 <br>
