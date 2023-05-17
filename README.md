@@ -4,7 +4,6 @@
 
 My name is Karolina and I'm on my first year of engineering studies in information technology. Recently I have started to interest of software automated testing. 
 I mainly focus on developing my Python programming skills, but I also open to learning new languages and gain new experience in automated testing.
-
 <br>
 <br>
 <br>
@@ -68,19 +67,15 @@ Finding the right selectors, writing automated tests tests cases and documentati
 <a href = "https://github.com/KarolinaSosinska/challange_portfolio_karola"> LINK </a></br>
 <br>
 <br>
-<br>
 * Link to my Robot Framework repository
- <a href = "https://github.com/KarolinaSosinska/panelscout_robotframework"> LINK </a> </br>
- <br>
+<a href = "https://github.com/KarolinaSosinska/panelscout_robotframework"> LINK </a> </br>
 <br>
 <br>
 * Link to my test cases
- <a href = "https://drive.google.com/drive/folders/1rpcmPnEsfivsjWbM_BE2PjQRkhqdvCEv?usp=sharing"> LINK </a></br>
- <br>
+<a href = "https://drive.google.com/drive/folders/1rpcmPnEsfivsjWbM_BE2PjQRkhqdvCEv?usp=sharing"> LINK </a></br>
 <br>
 <br>
 * Link to my bugs list and bugs report
 <a href = "https://drive.google.com/drive/folders/193Um3IKa8t0TtF1IvvVohnV688KBriAf?usp=sharing"> LINK </a> </br>
-<br>
 <br>
 <br>
