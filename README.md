@@ -12,13 +12,16 @@ Selenium IDE - Open source record and playback test automation for the web
 Bug Magnet - Exploratory testing assistant for Chrome and Firefox
 Mouse Recorder - mouse and keyboard recording macro
 xPath Finder - xPath finding tool
+Slack
 
 
 #Tech skills
-Python
-C#
+* Python
+* C#
 SQL
 DevTools
+Markdown
+HTML/CSS
 Software testing
 Creating test cases
 Reporting bugs
