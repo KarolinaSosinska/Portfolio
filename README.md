@@ -79,7 +79,7 @@ I mainly focus on developing my Python programming skills, but I also open to le
 <br>
 <br>
 
-# Youtube chanelle I follow 
+# Youtube channels I follow 
 *  <a href = "https://www.youtube.com/@KoW">@KoW</a>  
 *  <a href = "https://www.youtube.com/@edurekaIN">@edurekaIN</a> 
 *  <a href = "https://www.youtube.com/@ArjanCodes">@ArjanCodes</a>  
