@@ -55,6 +55,41 @@ I mainly focus on developing my Python programming skills, but I also open to le
 <br>
 <br>
 
+# Books
+* Czysty kod. Podręcznik dobrego programisty - Robert C. Martin
+
+<br>
+<br>
+<br>
+
+# Blog / site I read / use
+*  <a href = "https://www.dlatesterow.pl/">www.dlatesterow.pl</a>
+*  <a href = "https://www.plukasiewicz.net/Blog">www.plukasiewicz.net/Blog</a>
+*  <a href = "https://codebuns.com/">www.codebuns.com</a>
+*  <a href = "https://testuj.pl/blog/">www.testuj.pl/blog</a>
+*  <a href = "https://chyla.org/index.html">www.chyla.org</a>  
+*  <a href = "https://www.codecademy.com/">www.codecademy.com</a>  
+*  <a href = "https://www.codeaccess.pl/blog">www.codeaccess.pl/blog</a>  
+*  <a href = "https://futurecollars.com/blog/">www.futurecollars.com/blog</a>  
+*  <a href = "https://www.kodolamacz.pl/">www.kodolamacz.pl</a>    
+*  <a href = "https://www.python.org/doc/">www.python.org/doc</a>  
+*  <a href = "https://selenium-python.readthedocs.io/index.html">www.selenium-python.readthedocs.io</a>    
+
+<br>
+<br>
+<br>
+
+# Youtube chanelle I follow 
+*  <a href = "https://www.youtube.com/@KoW">@KoW</a>  
+*  <a href = "https://www.youtube.com/@edurekaIN">@edurekaIN</a> 
+*  <a href = "https://www.youtube.com/@ArjanCodes">@ArjanCodes</a>  
+*  <a href = "https://www.youtube.com/@coreyms">@coreyms</a>  
+*  <a href = "https://www.youtube.com/@TinaHuang1">@TinaHuang1</a>  
+
+<br>
+<br>
+<br>
+
 # My project
 
 Dare IT Challenge where I learned to write my first automated tests based on a test environment: <a href = "https://scouts-test.futbolkolektyw.pl/"> Scouts panel </a></br>
