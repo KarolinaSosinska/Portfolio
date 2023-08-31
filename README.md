@@ -2,8 +2,7 @@
 
 # About me
 
-My name is Karolina and I'm on my first year of engineering studies in information technology. Recently I have started to interest of software automated testing. 
-I mainly focus on developing my Python programming skills, but I also open to learning new languages and gain new experience in automated testing.
+My name is Karolina, and I am in the second year of my computer studies. Python is my primary programming language, although I also have some expertise with C#. I took a 7-week beginning course on the construction of automated tests to broaden my knowledge and gain expertise. I am now working on improving my programming skills as well as my knowledge of database systems and data visualization. I have experience with PostgresSQL, SQLite, and MySQL. In my spare time, I'll go for a long walk, make some wonderful pasta, and conquer my fears through aerial hoop training. Some of my projects and the materials that I use are listed below.
 <br>
 <br>
 <br>
