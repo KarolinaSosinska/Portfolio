@@ -39,9 +39,9 @@ My name is Karolina, and I am in the second year of my computer studies. Python 
 <br>
 <br>
 
-# Courses
-* Python 3 od Postaw do Eksperta (Udemy.com)
-* Dare IT Challenge - Wstęp do Testów Automatycznych
+# Certificates
+* <a href = "https://drive.google.com/file/d/1x8yC6OfnUuzG_qia51aXhFv4tkGq79yJ/view?usp=sharing">Dare IT Challenge - Wstęp do Testów Automatycznych</a>  
+* <a href = "https://drive.google.com/file/d/10jFczprydkDP-vXNUbv4FRMWzx-LiXgh/view?usp=sharing">Python 3 od Postaw do Eksperta (Udemy.com)</a>  
 
   <br>
 <br>
