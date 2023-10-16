@@ -28,7 +28,9 @@ Finding the right selectors, writing automated tests tests cases and documentati
 # :large_blue_circle: Tech skills
 * Python 
 * C# - basics of C# language
-* SQL 
+* SQL
+* Excel
+* Power BI
 * Markdown
 * HTML/CSS
 * Software testing
@@ -67,7 +69,7 @@ Finding the right selectors, writing automated tests tests cases and documentati
 <br>
 
 # :large_blue_circle: What I'm currently reading
-* Python i AI dla e-commerce - Sebastian Kondracki
+* Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People - Aditya Bhargava
 * Daily : <a href = "https://medium.com">www.medium.com</a> 
 
 <br>
