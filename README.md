@@ -2,10 +2,10 @@
 
 # About me :point_down:
 
-My name is Karolina, and I'm in the second year of my computer studies. Python :snake: is my primary programming language,</br> although I also have some expertise with C#.
-I took a 7-week beginning course on the construction of automated tests</br> to broaden my knowledge and gain expertise.</br> I'm now working on improving my programming skills as well as
-my knowledge of database systems and data visualization.</br> I have experience with PostgresSQL, SQLite, and MySQL. In my spare time, I'll go for a long walk, make some wonderful pasta,</br>
-and conquer my fears through aerial hoop training. Some of my projects and the materials that I use are listed below.
+My name is Karolina, and I'm in the second year of my computer science. Python 🐍 is my primary programming language, although I also have some expertise with C#.
+I took a 7-week beginning course on the construction of automated tests to broaden my knowledge and gain expertise. 
+I'm now working on improving my programming skills as well as
+develop my interest in data storytelling  through the use of relational databases and data visualization tools. I have experience with PostgresSQL, MySQL and SQLite. I spend the most of my leisure time pursuing my passion for air acrobatics. Some of my projects and the materials that I use are listed below.
 <br>
 <br>
 <br>
@@ -69,8 +69,8 @@ Finding the right selectors, writing automated tests tests cases and documentati
 <br>
 
 # :large_blue_circle: What I'm currently reading
-* Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People - Aditya Bhargava
-* Daily : <a href = "https://medium.com">www.medium.com</a> 
+* Storytelling with Data: A Data Visualization Guide for Business Professionals - Cole Nussbaumer Knaflic
+
 
 <br>
 <br>
@@ -80,6 +80,7 @@ Finding the right selectors, writing automated tests tests cases and documentati
 *  <a href = "https://pgexercises.com/">www.pgexercises.com</a>
 *  <a href = "https://www.w3schools.com/">www.w3schools.com</a>
 *  <a href = "https://stackoverflow.com/">www.stackoverflow.com</a>
+*  <a href = "https://medium.com">www.medium.com</a> 
 *  <a href = "https://www.plukasiewicz.net/Blog">www.plukasiewicz.net/Blog</a>
 *  <a href = "https://www.geeksforgeeks.org/">www.geeksforgeeks.org</a>
 *  <a href = "https://testuj.pl/blog/">www.testuj.pl/blog</a>
