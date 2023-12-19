@@ -2,10 +2,11 @@
 
 # About me :point_down:
 
-My name is Karolina, and I'm in the second year of my computer science. Python 🐍 is my primary programming language, although I also have some expertise with C#.
-I took a 7-week beginning course on the construction of automated tests to broaden my knowledge and gain expertise. 
-I'm now working on improving my programming skills as well as
-develop my interest in data storytelling  through the use of relational databases and data visualization tools. I have experience with PostgresSQL, MySQL and SQLite. I spend the most of my leisure time pursuing my passion for air acrobatics. Some of my projects and the materials that I use are listed below.
+My name is Karolina, and I'm in the second year of my computer science. Python 🐍 is my primary programming language,</br>
+although I also have some expertise with C#. I took a 7-week beginning course on the construction of automated tests to broaden</br>
+my knowledge and gain expertise. I'm now working on improving my programming skills as well as develop my interest in data storytelling</br>
+through the use of relational databases and data visualization tools. I have experience with PostgresSQL, MySQL and SQLite.</br>
+I spend the most of my leisure time pursuing my passion for air acrobatics. Some of my projects and the materials that I use are listed below.
 <br>
 <br>
 <br>
