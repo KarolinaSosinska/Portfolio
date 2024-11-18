@@ -3,7 +3,7 @@
 ### About Me
 I'm a third-year Computer Science student specializing in **Cloud Computing Solutions Architecture** and passionate about **Data Engineering**. Currently, I'm honing my skills in **Python** and working with various data-related tools and technologies. 
 
-My career goal is to become a **Data Engineer**, but I'm open to starting my journey as a **Data Analyst**. I'm constantly learning and expanding my expertise, especially in the field of cloud infrastructure like **AWS**.
+My career goal is to become a **Data Engineer**, but I'm open to start my journey as a **Data Analyst**. I'm constantly learning and expanding my expertise, especially in the field of cloud infrastructures like **AWS**.
 
 ---
 
@@ -32,7 +32,7 @@ Here’s a snapshot of the technologies and tools I'm familiar with:
 ## 🎓 Projects
 
 ### Dare IT Challenge
-Participated in the *Dare IT Challenge*, a 7-week QA project program where I learned best practices in testing with support from mentors, culminating in a final GitHub repository assignment. This project involved:
+Participated in the *Dare IT Challenge*, a 7-week QA project program where I practiced testing with support from mentors, culminating in a final GitHub repository assignment. This project involved:
 
 - Writing and documenting automated tests for the **Scouts Panel** test environment.
 - Selecting appropriate selectors and developing test cases.
@@ -65,7 +65,7 @@ This course concluded with a certificate of completion, which can be viewed [her
 ---
 
 ### 👩‍🎤 Outside of Tech
-When I'm not coding or studying, you can find me practicing **aerial acrobatics**! I'm passionate about **aerial hoop** and **aerial yoga**, where I combine strength, flexibility, and creativity. I also enjoy listening to podcasts on topics like **psychology**, **communication**, and **technology**.
+When I'm not coding or studying, you can find me practicing **aerial acrobatics**! I'm passionate about **aerial hoop** and **aerial yoga**, where I combine my strength, flexibility, and creativity. I also enjoy listening to podcasts on topics like **psychology**, **communication**, and **technology**.
 
 ---
 
